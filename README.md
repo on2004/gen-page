@@ -1,2 +1,0 @@
-# gen-page
-gen page
